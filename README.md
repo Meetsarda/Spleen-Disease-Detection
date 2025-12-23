@@ -1,5 +1,10 @@
 # Spleen Disease Detection Using Machine Learning
 
+## Live Demo
+Frontend prototype (GitHub Pages):  
+https://meetsarda.github.io/Spleen-Disease-Detection/
+
+
 ## Overview
 This project focuses on predicting the risk of hypersplenism using clinical and hematological features through machine learning techniques.
 
